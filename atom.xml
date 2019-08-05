@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-05T05:10:36.759Z</updated>
+  <updated>2019-08-05T19:12:15.838Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2019/08/06/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2019/08/06/测试/</id>
+    <published>2019-08-05T19:04:23.000Z</published>
+    <updated>2019-08-05T19:12:15.838Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h2 id="123"><a href="#123" class="headerlink" title="123"></a>123</h2><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"\nhttp://twoboys-1.oss-cn-beijing.aliyuncs.com/Mp4/190806-%E7%94%9F%E6%97%A5.mov","pic":"http://home.ustc.edu.cn/~mmmwhy/GEM.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"http://twoboys-1.oss-cn-beijing.aliyuncs.com/Mp4/190806-%E7%94%9F%E6%97%A5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h2 id=&quot;123&quot;&gt;&lt;a href=&quot;#123&quot; class=&quot;headerlink&quot; title=&quot;123&quot;&gt;&lt;/a&gt;123&lt;/h2&gt;&lt;div id=&quot;dplayer0&quot; 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>科学上网_190803</title>
@@ -89,7 +110,7 @@
     <published>2019-08-01T05:46:27.000Z</published>
     <updated>2019-08-01T06:06:58.238Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>随着刚刚的系统发布，紧跟着来一波激活工具好了！Windows激活工具哦！看清楚~ </p></blockquote><p><img src="https://pic1.superbed.cn/item/5d4280a2451253d178ff0efb.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer4"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="资源简介"><a href="#资源简介" class="headerlink" title="资源简介"></a>资源简介</h2><p>HEU KMS Activator 是有一位 知彼而知己 的大神所开发的KMS激活工具，此工具可以完美的激活Windows以及Office的VL版本，无需联网即可一键激活，目前最新版的HEU KMS Activator 新增Win10数字许可证激活，不在是以前的那个KMS激活了，很多系统都可以使用数字权利永久激活使用，而且此工具带有静默激活参数可以用来封装使用，在封装系统安装后调用HEU KMS Activator 计划任务 加上静默激活参数可完美激活，此版本激活成功率最高，推荐系统封装爱好者使用。</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>2019.7.30 HEU KMS Activator v19.4.0</p><ol><li><p>解决Office2016/2019 Retail版更改默认安装路径转换VL版失败问题。</p></li><li><p>自动续期功能调整为”自动续订”、”任务计划”两种模式。</p></li><li><p>解决KMS38激活失败需重置并重启后激活才生效的问题。</p></li><li><p>Office自动转化为VL版时自动跳过已永久激活的Office Retail版。</p></li><li><p>增加Office 2019/2016 Home/Personal版的激活(自动转化为Standard版)。</p></li><li><p>增加可在线激活的KMS服务器地址(详见【附加】菜单)。</p></li><li><p>按钮调整，静默参数调整。</p></li><li><p>软件启动时显示logo，使用静默参数时可选择是否显示logo。</p></li></ol><h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><p>关注下方兔子微信公众号，回复关键词<strong>「<span style=" color: #6ca0ff;">ZY-0848372101</span>」</strong>即可获取下载方式哦！</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>随着刚刚的系统发布，紧跟着来一波激活工具好了！Windows激活工具哦！看清楚~ </p></blockquote><p><img src="https://pic1.superbed.cn/item/5d4280a2451253d178ff0efb.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer5"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="资源简介"><a href="#资源简介" class="headerlink" title="资源简介"></a>资源简介</h2><p>HEU KMS Activator 是有一位 知彼而知己 的大神所开发的KMS激活工具，此工具可以完美的激活Windows以及Office的VL版本，无需联网即可一键激活，目前最新版的HEU KMS Activator 新增Win10数字许可证激活，不在是以前的那个KMS激活了，很多系统都可以使用数字权利永久激活使用，而且此工具带有静默激活参数可以用来封装使用，在封装系统安装后调用HEU KMS Activator 计划任务 加上静默激活参数可完美激活，此版本激活成功率最高，推荐系统封装爱好者使用。</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>2019.7.30 HEU KMS Activator v19.4.0</p><ol><li><p>解决Office2016/2019 Retail版更改默认安装路径转换VL版失败问题。</p></li><li><p>自动续期功能调整为”自动续订”、”任务计划”两种模式。</p></li><li><p>解决KMS38激活失败需重置并重启后激活才生效的问题。</p></li><li><p>Office自动转化为VL版时自动跳过已永久激活的Office Retail版。</p></li><li><p>增加Office 2019/2016 Home/Personal版的激活(自动转化为Standard版)。</p></li><li><p>增加可在线激活的KMS服务器地址(详见【附加】菜单)。</p></li><li><p>按钮调整，静默参数调整。</p></li><li><p>软件启动时显示logo，使用静默参数时可选择是否显示logo。</p></li></ol><h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><p>关注下方兔子微信公众号，回复关键词<strong>「<span style=" color: #6ca0ff;">ZY-0848372101</span>」</strong>即可获取下载方式哦！</p>]]></content>
     
     <summary type="html">
     
@@ -133,7 +154,7 @@
     <published>2019-07-31T15:55:50.000Z</published>
     <updated>2019-07-31T16:28:04.886Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>时隔半年我又回来啦！之前电脑重装系统…导致我的博客文件都丢失了，所以一直没办法进行更新。今天终于找到了一份备份，现已恢复至18年11月份的备份。从18年12月开始的内容全部丢失。 </p></blockquote><p><img src="https://pic.superbed.cn/item/5d41c06a451253d178f5d922.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer5"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><h2 id="最终还是回来了"><a href="#最终还是回来了" class="headerlink" title="最终还是回来了"></a>最终还是回来了</h2><p>因为之前没有养成很好的备份习惯，所以导致博客的相关文件都丢失掉了，所以一直没有办法发布我的博客。</p><p>今天在整理移动硬盘的时候很偶然的发现了这个备份，这是<strong>18年11月20日</strong>的备份。虽然这个备份会导致我很多的心血丢失，不过…一些<strong>很重要的内容</strong>还是保留了下来。</p><p>现在博客已经恢复到了这个版本上，以后可以正常更新了！所以…继续支持哦！</p><p>资源随缘发布，主要还是心情和一些感悟、教程之类的吧。</p><h2 id="说点啥？不知道！"><a href="#说点啥？不知道！" class="headerlink" title="说点啥？不知道！"></a>说点啥？不知道！</h2><p>其实我也不知道要说点啥，就是想着既然找回来了，那就发一篇博文吧，不发一篇总觉得缺少点什么似的。恩，上面还是家猫唱的盗将行！我很喜欢，下次一定要让家猫好好练习下，再给本喵唱一遍。</p><p>好吧，就这些吧！以后可以正常更新了~就酱！</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>时隔半年我又回来啦！之前电脑重装系统…导致我的博客文件都丢失了，所以一直没办法进行更新。今天终于找到了一份备份，现已恢复至18年11月份的备份。从18年12月开始的内容全部丢失。 </p></blockquote><p><img src="https://pic.superbed.cn/item/5d41c06a451253d178f5d922.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer4"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><h2 id="最终还是回来了"><a href="#最终还是回来了" class="headerlink" title="最终还是回来了"></a>最终还是回来了</h2><p>因为之前没有养成很好的备份习惯，所以导致博客的相关文件都丢失掉了，所以一直没有办法发布我的博客。</p><p>今天在整理移动硬盘的时候很偶然的发现了这个备份，这是<strong>18年11月20日</strong>的备份。虽然这个备份会导致我很多的心血丢失，不过…一些<strong>很重要的内容</strong>还是保留了下来。</p><p>现在博客已经恢复到了这个版本上，以后可以正常更新了！所以…继续支持哦！</p><p>资源随缘发布，主要还是心情和一些感悟、教程之类的吧。</p><h2 id="说点啥？不知道！"><a href="#说点啥？不知道！" class="headerlink" title="说点啥？不知道！"></a>说点啥？不知道！</h2><p>其实我也不知道要说点啥，就是想着既然找回来了，那就发一篇博文吧，不发一篇总觉得缺少点什么似的。恩，上面还是家猫唱的盗将行！我很喜欢，下次一定要让家猫好好练习下，再给本喵唱一遍。</p><p>好吧，就这些吧！以后可以正常更新了~就酱！</p>]]></content>
     
     <summary type="html">
     
