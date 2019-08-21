@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-21T05:35:10.976Z</updated>
+  <updated>2019-08-21T05:38:25.173Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://yoursite.com/2019/08/18/ios%E8%B6%8A%E7%8B%B1%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/"/>
     <id>http://yoursite.com/2019/08/18/ios越狱那些事儿/</id>
     <published>2019-08-18T15:47:34.000Z</published>
-    <updated>2019-08-21T05:35:10.976Z</updated>
+    <updated>2019-08-21T05:38:25.173Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>iOS 越狱一直都是 iPhone 用户都普遍关心的事儿。毕竟相对开源的安卓来说，iOS 确实在某些功能上略显单薄。今天就单独出一则iOS 越狱的那些事儿。<br><br><strong>更新时间：2019-08-20 17:27</strong> </p></blockquote><p><img src="https://pic.superbed.cn/item/5d59797f451253d178cb4e95.png" alt="代码"></p><a id="more"></a><hr><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer4"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="越狱最新消息"><a href="#越狱最新消息" class="headerlink" title="越狱最新消息"></a>越狱最新消息</h2><h4 id="2019年08月20日20-23"><a href="#2019年08月20日20-23" class="headerlink" title="2019年08月20日20:23"></a>2019年08月20日20:23</h4><p>iOS 12.4版本系统经过最初的 Undecimus-v3.5.0 版本后，又迎来了三次的越狱工具更新！目前越狱工具最新版本为 Undecimus-v3.5.3 版本。大大提高了越狱速度及稳定性。大部分兼容iOS 12.2的插件均兼容iOS 12.4版本，不兼容的插件正在火速兼容并更新。<strong>目前仍然不支持12.3以及12.3.1版本系统。</strong></p><p>截止到目前为止，iOS 12.4 验证通道尚未关闭，大家可以通过升级系统来获取越狱。</p><h4 id="2019年08月18日11-49"><a href="#2019年08月18日11-49" class="headerlink" title="2019年08月18日11:49"></a>2019年08月18日11:49</h4><p>iOS 12.4版本支持越狱！（A8-A11）（A7-A7X）漏洞添加 iOS 12.4 支持。<strong>请注意：Undecimus-v3.5.0 不支持12.3以及12.3.1版本系统。</strong> </p><p>截止到目前为止，iOS 12.4 验证通道尚未关闭，大家可以通过升级系统来获取越狱。</p><h2 id="越狱教程"><a href="#越狱教程" class="headerlink" title="越狱教程"></a>越狱教程</h2><p>后期补充ing…</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>iOS 越狱一直都是 iPhone 用户都普遍关心的事儿。毕竟相对开源的安卓来说，iOS 确实在某些功能上略显单薄。今天就单独出一则iOS 越狱的那些事儿。<br><br><strong>更新时间：2019-08-20 20:27</strong> </p></blockquote><p><img src="https://pic.superbed.cn/item/5d59797f451253d178cb4e95.png" alt="代码"></p><a id="more"></a><hr><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer4"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="越狱最新消息"><a href="#越狱最新消息" class="headerlink" title="越狱最新消息"></a>越狱最新消息</h2><h4 id="2019年08月20日20-23"><a href="#2019年08月20日20-23" class="headerlink" title="2019年08月20日20:23"></a>2019年08月20日20:23</h4><p>iOS 12.4版本系统经过最初的 Undecimus-v3.5.0 版本后，又迎来了三次的越狱工具更新！目前越狱工具最新版本为 Undecimus-v3.5.3 版本。大大提高了越狱速度及稳定性。大部分兼容iOS 12.2的插件均兼容iOS 12.4版本，不兼容的插件正在火速兼容并更新。<strong>目前仍然不支持12.3以及12.3.1版本系统。</strong></p><p>截止到目前为止，iOS 12.4 验证通道尚未关闭，大家可以通过升级系统来获取越狱。</p><h4 id="2019年08月18日11-49"><a href="#2019年08月18日11-49" class="headerlink" title="2019年08月18日11:49"></a>2019年08月18日11:49</h4><p>iOS 12.4版本支持越狱！（A8-A11）（A7-A7X）漏洞添加 iOS 12.4 支持。<strong>请注意：Undecimus-v3.5.0 不支持12.3以及12.3.1版本系统。</strong> </p><p>截止到目前为止，iOS 12.4 验证通道尚未关闭，大家可以通过升级系统来获取越狱。</p><h2 id="越狱教程"><a href="#越狱教程" class="headerlink" title="越狱教程"></a>越狱教程</h2><p>后期补充ing…</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;iOS 越狱一直都是 iPhone 用户都普遍关心的事儿。毕竟相对开源的安卓来说，iOS 确实在某些功能上略显单薄。今天就单独出一则iOS 越狱的那些事儿。&lt;br&gt;&lt;br&gt;&lt;strong&gt;更新时间：2019-08-20 17:27&lt;/strong&gt; &lt;/p&gt;
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;iOS 越狱一直都是 iPhone 用户都普遍关心的事儿。毕竟相对开源的安卓来说，iOS 确实在某些功能上略显单薄。今天就单独出一则iOS 越狱的那些事儿。&lt;br&gt;&lt;br&gt;&lt;strong&gt;更新时间：2019-08-20 20:27&lt;/strong&gt; &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&quot;https://pic.superbed.cn/item/5d59797f451253d178cb4e95.png&quot; alt=&quot;代码&quot;&gt;&lt;/p&gt;
     
