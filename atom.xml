@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-24T10:59:33.471Z</updated>
+  <updated>2019-08-24T11:23:33.905Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WeChat for Win_多开防撤回</title>
+    <link href="http://yoursite.com/2019/08/24/WeChat%20for%20Win_%E5%A4%9A%E5%BC%80%E9%98%B2%E6%92%A4%E5%9B%9E/"/>
+    <id>http://yoursite.com/2019/08/24/WeChat for Win_多开防撤回/</id>
+    <published>2019-08-24T11:03:09.000Z</published>
+    <updated>2019-08-24T11:23:33.905Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p><strong><span style=" color: #6ca0ff;">WeChat_2.7.0.70_多开防撤回版</span></strong>。注意此为Pc版！<strong>不是手机版！不是Mac版！</strong>看清楚啦！别到时候再问我为啥没法安装… <br><br><strong><span style=" color: #ff0000;">更新日期：2019-08-24 19:03</span></strong></p></blockquote><p><img src="https://pic3.superbed.cn/item/5d48e02c451253d178948ffc.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer1"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="资源简介"><a href="#资源简介" class="headerlink" title="资源简介"></a>资源简介</h2><p>WeChat，中文名：微信。是一款跨平台的通讯工具…恩，就这么多了。反正大家知道微信是干嘛使的，所以也就不多说了。如果还有不知道的，本站不适合你。请回你的星球去~</p><h2 id="官方更新"><a href="#官方更新" class="headerlink" title="官方更新"></a>官方更新</h2><ul><li>修复一些bug</li><li>优化用户体验</li></ul><h2 id="破解优化"><a href="#破解优化" class="headerlink" title="破解优化"></a>破解优化</h2><ul><li>去整体自校验，去程序多次崩溃提示下载官方版校验。</li><li>去WeChatUpdate.exe多重校验。</li><li>硬改支持多开，无需额外辅助工具。</li><li>硬改防撤回消息，即对方发送消息撤回后你依然可以看得到。</li></ul><h2 id="破解及使用"><a href="#破解及使用" class="headerlink" title="破解及使用"></a>破解及使用</h2><ol><li>把压缩包解压到你想要安装的位置。</li><li>将WeChat.exe发到桌面，并改名微信即可。（你也可以选择不改）</li></ol><p><strong>注意：软件可能会造成杀毒软件误报，请添加到白名单。</strong></p><h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><p>关注下方兔子微信公众号，回复关键词<strong>「<span style=" color: #6ca0ff;">ZY-0895384206</span>」</strong>即可获取下载方式哦！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot; color: #6ca0ff;&quot;&gt;WeChat_2.7.0.70_多开防撤回版&lt;/span&gt;&lt;/strong&gt;。注意此为Pc版！&lt;strong&gt;不是手机版！不是Mac版！&lt;/strong&gt;看清楚啦！别到时候再问我为啥没法安装… &lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span style=&quot; color: #ff0000;&quot;&gt;更新日期：2019-08-24 19:03&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://pic3.superbed.cn/item/5d48e02c451253d178948ffc.png&quot; alt=&quot;图片赏析&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Windows资源" scheme="http://yoursite.com/categories/Windows%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="微信" scheme="http://yoursite.com/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+      <category term="Windows" scheme="http://yoursite.com/tags/Windows/"/>
+    
+      <category term="社交" scheme="http://yoursite.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+      <category term="即时通讯" scheme="http://yoursite.com/tags/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>ios越狱那些事儿</title>
@@ -122,28 +152,6 @@
   </entry>
   
   <entry>
-    <title>WeChat for Win_多开防撤回</title>
-    <link href="http://yoursite.com/2019/08/06/WeChat%20for%20Win_%E5%A4%9A%E5%BC%80%E9%98%B2%E6%92%A4%E5%9B%9E/"/>
-    <id>http://yoursite.com/2019/08/06/WeChat for Win_多开防撤回/</id>
-    <published>2019-08-06T02:03:09.000Z</published>
-    <updated>2019-08-14T12:21:57.147Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>WeChat_2.6.8.65_多开防撤回版。注意此为Pc版！<strong>不是手机版！不是Mac版！</strong>看清楚啦！别到时候再问我为啥没法安装… </p></blockquote><p><img src="https://pic3.superbed.cn/item/5d48e02c451253d178948ffc.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer2"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="资源简介"><a href="#资源简介" class="headerlink" title="资源简介"></a>资源简介</h2><p>WeChat，中文名：微信。是一款跨平台的通讯工具…恩，就这么多了。反正大家知道微信是干嘛使的，所以也就不多说了。如果还有不知道的，本站不适合你。请回你的星球去~</p><h2 id="官方更新"><a href="#官方更新" class="headerlink" title="官方更新"></a>官方更新</h2><ul><li>修复一些bug</li><li>优化用户体验</li></ul><h2 id="破解优化"><a href="#破解优化" class="headerlink" title="破解优化"></a>破解优化</h2><ul><li>去整体自校验，去程序多次崩溃提示下载官方版校验。</li><li>去WeChatUpdate.exe多重校验。</li><li>硬改支持多开，无需额外辅助工具。</li><li>硬改防撤回消息，即对方发送消息撤回后你依然可以看得到。</li></ul><h2 id="破解及使用"><a href="#破解及使用" class="headerlink" title="破解及使用"></a>破解及使用</h2><ol><li>把压缩包解压到你想要安装的位置。</li><li>将WeChat.exe发到桌面，并改名微信即可。（你也可以选择不改）</li></ol><p><strong>注意：软件可能会造成杀毒软件误报，请添加到白名单。</strong></p><h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><p>关注下方兔子微信公众号，回复关键词<strong>「<span style=" color: #6ca0ff;">ZY-0895384206</span>」</strong>即可获取下载方式哦！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;WeChat_2.6.8.65_多开防撤回版。注意此为Pc版！&lt;strong&gt;不是手机版！不是Mac版！&lt;/strong&gt;看清楚啦！别到时候再问我为啥没法安装… &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;https://pic3.superbed.cn/item/5d48e02c451253d178948ffc.png&quot; alt=&quot;图片赏析&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Windows资源" scheme="http://yoursite.com/categories/Windows%E8%B5%84%E6%BA%90/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>只属于你的生日</title>
     <link href="http://yoursite.com/2019/08/06/%E5%8F%AA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5/"/>
     <id>http://yoursite.com/2019/08/06/只属于你的生日/</id>
@@ -196,7 +204,7 @@
     <published>2019-08-02T13:38:12.000Z</published>
     <updated>2019-08-05T05:09:34.655Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>恩，群里让分享一个精简版的Windows10，精简版我这边倒是不少，就是精简且稳定的我只推荐这个版本！主图还没让家猫做呢，先不换了。 </p></blockquote><p><img src="https://pic.superbed.cn/item/5d47b9ed451253d178712e36.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer1"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="资源介绍"><a href="#资源介绍" class="headerlink" title="资源介绍"></a>资源介绍</h2><p><strong>Win10x64_1703_18Q2精简版</strong>，是这么长时间以来兔子用的最舒服的一个精简版了，当然也有1803的精简版，但是相对没有那么稳定就是了。所以就不分享了。<strong>兔兔怕麻烦</strong>~</p><h2 id="资源使用"><a href="#资源使用" class="headerlink" title="资源使用"></a>资源使用</h2><p>因为格式是iso的，所以建议使用装机U盘进入PE里面进行安装。gost版本兔子是不喜欢，附加的太多了。还是iso的比较舒服。不会安装的…等着吧，啥时候兔子<strong>心情好了</strong>更新一个教程！恩…<strong>心情好了而且不忙的时候</strong>。</p><h2 id="关于下载"><a href="#关于下载" class="headerlink" title="关于下载"></a>关于下载</h2><p>不是所有的资源兔子都会放上3个下载方式的，比如这个资源，目前兔子就放了一个下载方式，但是速度还是不错的。放心下载就是了。虽然百度云和微云都上传了，但是🐇就是不想放！<strong>啦啦啦啦啦啦啦啦，你来打我啊~</strong></p><h2 id="资源下载"><a href="#资源下载" class="headerlink" title="资源下载"></a>资源下载</h2><p>关注下方兔子微信公众号，回复关键词<strong>「<span style=" color: #6ca0ff;">ZY-0849536103</span>」</strong>即可获取下载方式哦！</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>恩，群里让分享一个精简版的Windows10，精简版我这边倒是不少，就是精简且稳定的我只推荐这个版本！主图还没让家猫做呢，先不换了。 </p></blockquote><p><img src="https://pic.superbed.cn/item/5d47b9ed451253d178712e36.png" alt="图片赏析"></p><a id="more"></a><hr><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"></div><script>new APlayer({element: document.getElementById("aplayer2"),narrow: false,autoplay: true,showlrc: 0,music: {title: "盗将行",author: "吴泽晞",url: "http://oss.twoboys.cn/Mp3/%E7%9B%97%E5%B0%86%E8%A1%8C-%E5%90%B4%E6%B3%BD%E6%99%9E.mp3",pic: "https://www.superbed.cn/pic/5bef6f519dc6d61ad66ee83e",}});</script><center> 「依然是家猫的盗将行，喜欢😍」 </center><h2 id="资源介绍"><a href="#资源介绍" class="headerlink" title="资源介绍"></a>资源介绍</h2><p><strong>Win10x64_1703_18Q2精简版</strong>，是这么长时间以来兔子用的最舒服的一个精简版了，当然也有1803的精简版，但是相对没有那么稳定就是了。所以就不分享了。<strong>兔兔怕麻烦</strong>~</p><h2 id="资源使用"><a href="#资源使用" class="headerlink" title="资源使用"></a>资源使用</h2><p>因为格式是iso的，所以建议使用装机U盘进入PE里面进行安装。gost版本兔子是不喜欢，附加的太多了。还是iso的比较舒服。不会安装的…等着吧，啥时候兔子<strong>心情好了</strong>更新一个教程！恩…<strong>心情好了而且不忙的时候</strong>。</p><h2 id="关于下载"><a href="#关于下载" class="headerlink" title="关于下载"></a>关于下载</h2><p>不是所有的资源兔子都会放上3个下载方式的，比如这个资源，目前兔子就放了一个下载方式，但是速度还是不错的。放心下载就是了。虽然百度云和微云都上传了，但是🐇就是不想放！<strong>啦啦啦啦啦啦啦啦，你来打我啊~</strong></p><h2 id="资源下载"><a href="#资源下载" class="headerlink" title="资源下载"></a>资源下载</h2><p>关注下方兔子微信公众号，回复关键词<strong>「<span style=" color: #6ca0ff;">ZY-0849536103</span>」</strong>即可获取下载方式哦！</p>]]></content>
     
     <summary type="html">
     
